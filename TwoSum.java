@@ -7,6 +7,8 @@ class Solution {
                 }
             }            
         }
-        return null;        
+        return null;  
+        
+        // solution 2: use hash map
     }
 }
