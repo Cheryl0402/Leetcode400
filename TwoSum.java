@@ -1,3 +1,5 @@
+import java.util.HashMap;
+import java.lang.Integer;
 class Solution {
     public int[] twoSum(int[] nums, int target) {       
         //Solution 1: brute force.
